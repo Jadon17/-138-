@@ -1,0 +1,14 @@
+body {
+    background-image:center ;
+}
+
+.heading h3{
+    text-align: left;
+    display:inline;
+    margin-bottom: 5px;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
